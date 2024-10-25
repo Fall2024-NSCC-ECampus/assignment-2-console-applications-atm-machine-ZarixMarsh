@@ -1,0 +1,44 @@
+"C:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2024.2.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\Marshall\Desktop\School Work\Semester 3\PROG2100-Programming C++\assignment-2-console-applications-atm-machine-ZarixMarsh\Assignment 3" -B "C:\Users\Marshall\Desktop\School Work\Semester 3\PROG2100-Programming C++\assignment-2-console-applications-atm-machine-ZarixMarsh\Assignment 3\cmake-build-debug"
+-- The C compiler identification is GNU 13.1.0
+-- The CXX compiler identification is GNU 13.1.0
+-- Detecting C compiler ABI info
+CMake Warning in C:/Users/Marshall/Desktop/School Work/Semester 3/PROG2100-Programming C++/assignment-2-console-applications-atm-machine-ZarixMarsh/Assignment 3/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-6sz4d1/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/Marshall/Desktop/School Work/Semester 3/PROG2100-Programming C++/assignment-2-console-applications-atm-machine-ZarixMarsh/Assignment 3/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-6sz4d1/CMakeFiles/cmTC_b314c.dir/./
+
+  has 232 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    CMakeCCompilerABI.c.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files/JetBrains/CLion 2024.2.1/bin/mingw/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+CMake Warning in C:/Users/Marshall/Desktop/School Work/Semester 3/PROG2100-Programming C++/assignment-2-console-applications-atm-machine-ZarixMarsh/Assignment 3/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-3u1829/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/Marshall/Desktop/School Work/Semester 3/PROG2100-Programming C++/assignment-2-console-applications-atm-machine-ZarixMarsh/Assignment 3/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-3u1829/CMakeFiles/cmTC_7444c.dir/./
+
+  has 232 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    CMakeCXXCompilerABI.cpp.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files/JetBrains/CLion 2024.2.1/bin/mingw/bin/g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done (1.8s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/Marshall/Desktop/School Work/Semester 3/PROG2100-Programming C++/assignment-2-console-applications-atm-machine-ZarixMarsh/Assignment 3/cmake-build-debug
